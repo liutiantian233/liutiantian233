@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on Leetcode and coursework.
 - 🌱 I’m currently learning OCaml
-- 💬 Ask me about Artificial Intelligence Algorithm, not limit to Natural Language Processing, Naive Bayes, Neural Nets and so on.
+- 💬 Ask me about artificial intelligence algorithm, not limited to natural language processing, naive bayes, neural nets and so on.
 - 📫 How to reach me: [Website](https://liutianrui.me/about/) or [LinkedIn](https://www.linkedin.com/in/tianrui-l-095633176/)
