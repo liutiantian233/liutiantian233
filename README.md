@@ -6,3 +6,5 @@
 - 📫 How to reach me: [Website](https://liutianrui.me/about/) or [LinkedIn](https://www.linkedin.com/in/tianrui-l-095633176/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liutiantian233&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=liutiantian233&hide=contribs,prs,issues&count_private=true&show_icons=true&include_all_commits=true)
