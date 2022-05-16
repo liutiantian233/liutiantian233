@@ -14,5 +14,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png"></code>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=liutiantian233&hide=contribs,prs,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liutiantian233&layout=compact"> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=liutiantian233&hide=contribs,prs,issues&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liutiantian233&layout=compact&hide_border=true"> |
 | - | -|
